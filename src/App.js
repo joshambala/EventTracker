@@ -73,7 +73,7 @@ getTotalInvited = () => this.state.guests.length;
       </header>
       <div className="main">
         <div>
-          <h2>List of Events</h2>
+          <h2>Special Event</h2>
           <label>
             <input type="checkbox" /> Hide those who haven't responded
           </label>

@@ -95,10 +95,10 @@ button {
 
 header {
   text-align: center;
-  background: linear-gradient(90deg, #d4eece, #55b3d0, #1e7eb7),
+  background: linear-gradient(90deg, #020024, #537d8a, #00d4ff),
     url(./images/neudesic-logo.png) no-repeat;
   background-blend-mode: multiply;
-  background-size: cover;
+   background-size: cover;
 }
 
 header input {
